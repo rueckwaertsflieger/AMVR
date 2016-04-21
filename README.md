@@ -12,3 +12,5 @@ Other pilots like to know about the first of the day thermalling.
 All of them demand situational awareness.  An application is missing for gathering all information demanded by ground people. The Airfield Manager's Virtual Radar is missing.
 
 This project will integrate many components necessary for gathering and presenting data, ground people on the airfield demand.  Amongst weather sensor hardware and software defined radio virtual radar receivers, subprojects and how tos making the system fool proof are given.
+
+[learn more](https://github.com/rueckwaertsflieger/AMVR/wiki)
