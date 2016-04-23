@@ -1,5 +1,5 @@
 # AMVR
-Airfield Manager's Virtual Radar
+Airfield Manager's Virtual Radar - closing the information gap between ground and airborn
 
 Glider pilots widely use navigational aids like XCSoar to gather situational awareness, reducing the task load when airborn. Amongst statistics and other information, XCSoar provides a tactical flight computer, predicting the future state of your glider and your situation / reach respectively.  Even more, XCSoar shows information about others when integrated with a collision warning device Flarm.
 
@@ -11,6 +11,6 @@ Other pilots like to know about the first of the day thermalling.
 
 All of them demand situational awareness.  An application is missing for gathering all information demanded by ground people. The Airfield Manager's Virtual Radar is missing.
 
-This project will integrate many components necessary for gathering and presenting data, ground people on the airfield demand.  Amongst weather sensor hardware and software defined radio virtual radar receivers, subprojects and how tos making the system fool proof are given.
+This project will integrate many components necessary for gathering and presenting data, people on the ground demand.  Amongst weather sensor hardware and software defined radio virtual radar receivers, subprojects and how tos making the system fool proof are given.
 
 [learn more](https://github.com/rueckwaertsflieger/AMVR/wiki)
