@@ -69,10 +69,10 @@ while [ $errorgps -eq 124 ] && [ $errorntp -eq 124 ] && [ $clockattempt -lt 10 ]
 
 # Just to make sure, gpsd and ntpd are running even after
 # gpstime failed
+echo "Restarting gpsd"
 sudo /etc/init.d/gpsd restart
 sleep 2
 
-# might work with sudo /etc/init.d/gpsd restart as well
 sudo killall ntpd
 echo "Restarting ntpd"
 sudo service ntp restart
