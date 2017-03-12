@@ -75,7 +75,7 @@ sleep 2
 # might work with sudo /etc/init.d/gpsd restart as well
 sudo killall ntpd
 echo "Restarting ntpd"
-sudo ntpd -g -c /etc/ntp.conf
+sudo service ntp restart
 echo ""
 sleep 2
 
